@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git count-objects *)",
+      "Bash(git config *)",
+      "Bash(git push *)"
+    ]
+  }
+}
